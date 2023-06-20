@@ -3,7 +3,7 @@ const kue = require('kue');
 const queue = kue.createQueue();
 
 const data = {
-  phoneNumber: '0716630090',
+  phoneNumber: '4153518780',
   message: 'This is the code to verify your account',
 };
 
