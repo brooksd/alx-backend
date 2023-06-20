@@ -1,7 +1,7 @@
 {
   "name": "queuing_system_in_js",
   "version": "1.0.0",
-  "description": "A project for learning the basics of a queueing system in Node.js.",
+  "description": "A project for learning the basics of a queueing system in Node.js and redis Server.",
   "author": "Donald Brooks <brooksd079@gmail.com>",
   "private": true,
   "license": "MIT",
@@ -39,10 +39,6 @@
     "type": "git",
     "url": "https://github.com/brooksd/alx-backend"
   },
-  "bugs": {
-    "url": "https://github.com/brooksd/alx-backend/issues"
-  },
-  "homepage": "https://github.com/brooksd/alx-backend/blob/main/0x03-queuing_system_in_js/README.md",
   "engines": {
     "node": "16.x",
     "npm": "8.x",
